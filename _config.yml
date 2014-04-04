@@ -1,0 +1,13 @@
+name: Data Mongers
+markdown: redcarpet
+pygments: true
+
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
+editor: st
+git:
+  branch: master
